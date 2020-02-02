@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Citizen</string>
+    <string name="Appointment">Appointment</string>
+    <string name="Track_Complaint">Track Complaint</string>
+    <string name="Recruitment_Form">Recruitment Form</string>
+    <string name="Request_NOC">Request For NOC</string>
+    <string name="Request_resource_alloactation">Request For Resource Allocation</string>
+    <string name="File_Complaint">File a Complaint</string>
+</resources>
